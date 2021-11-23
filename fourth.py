@@ -1,0 +1,6 @@
+A = float(input())
+B = float(input())
+print(str(A+B))
+print(str(A-B))
+print(str(A*B))
+print(str(A/B))
