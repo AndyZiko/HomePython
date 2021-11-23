@@ -1,2 +1,2 @@
 # HomePython
-Here's the homework for Python
+Here's the Python homework.
